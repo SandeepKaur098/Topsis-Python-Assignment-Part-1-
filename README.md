@@ -60,9 +60,9 @@ The program calculates the TOPSIS Score and Rank for each fund. A higher score i
 (Note: The values below are from a sample run. Please verify with your generated result.csv)
 
 4. Visual Analysis
-The following bar chart compares the performance of different funds based on their TOPSIS score.
-![TOPSIS Result Graph](graph.png)
+The bar chart compares the performance of different funds based on their TOPSIS score.
 
 License
 
 This project is open-source and available for educational purposes.
+
